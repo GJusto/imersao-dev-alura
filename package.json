@@ -1,0 +1,34 @@
+{
+  "name": "imersao-dev-alura",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "Gustavo Justo",
+    "email": "gustavo.justo02@gmail.com"
+  },
+  "contributors": [],
+  "scripts": {
+    "dev": "",
+    "test": "",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.7"
+  }
+}
